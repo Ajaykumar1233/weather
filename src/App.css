@@ -1,0 +1,9 @@
+.row{
+    display: flex;
+   
+}
+.container{
+   @media(max-width: 600px){
+    display: table-column;
+   }
+}
